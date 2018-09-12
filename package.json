@@ -1,0 +1,11 @@
+{
+  "name": "api-01",
+  "version": "1.0.0",
+  "description": "Manipulando um Simples Http: Hello Word",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Rodrigo Fernandes",
+  "license": "ISC"
+}
