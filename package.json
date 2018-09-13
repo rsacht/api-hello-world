@@ -4,7 +4,7 @@
   "description": "Manipulando um Simples Http: Hello Word",
   "main": "index.js",
   "scripts": {
-    "test": "node index.test"
+    "test": "test"
   },
   "author": "Rodrigo Fernandes",
   "license": "ISC",
