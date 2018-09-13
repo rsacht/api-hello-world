@@ -4,12 +4,13 @@
   "description": "Manipulando um Simples Http: Hello Word",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node index.test"
   },
   "author": "Rodrigo Fernandes",
   "license": "ISC",
   "dependencies": {
     "http": "0.0.0",
-    "nodeunit": "^0.11.3"
+    "nodeunit": "^0.11.3",
+    "tape": "^4.9.1"
   }
 }
